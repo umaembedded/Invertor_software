@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734537556 source:c:\users\yerra\onedrive\documents\c programs\firmcode\example\reverse array\main.c
+	<stdio.h>
+	<stdlib.h>
+
